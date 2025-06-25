@@ -9,7 +9,7 @@
 
 ---
 
-**Grocery Store** is a modern, feature-rich e-commerce platform built for the Spargen Case Study 2025. It showcases modern web development practices, accessibility compliance, and innovative user experiences.
+**Grocery Store** is a modern, feature-rich e-commerce platform. It showcases modern web development practices, accessibility compliance, and innovative user experiences.
 
 ## 🎯 Implemented Features
 
