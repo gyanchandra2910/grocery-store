@@ -1,4 +1,4 @@
-# 🛒 Grocery Store - Modern E-Commerce Platform (MERN Stack) - Spargen Case Study 2025
+# 🛒 Grocery Store - Modern E-Commerce Platform (MERN Stack)
 
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14-green?logo=node.js)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-%3E%3D16.8-blue?logo=react)](https://reactjs.org/)
